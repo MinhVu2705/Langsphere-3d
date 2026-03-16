@@ -1,0 +1,74 @@
+[
+  {
+    "tense": "Present Simple",
+    "title": "Present Simple Tense",
+    "theory": "S + V(s/es) for habits, facts, routines.",
+    "example": "She goes to school every day."
+  },
+  {
+    "tense": "Present Continuous",
+    "title": "Present Continuous Tense",
+    "theory": "S + am/is/are + V-ing for actions happening now.",
+    "example": "They are playing football."
+  },
+  {
+    "tense": "Present Perfect",
+    "title": "Present Perfect Tense",
+    "theory": "S + have/has + V3 for experiences or past with present relevance.",
+    "example": "I have finished my homework."
+  },
+  {
+    "tense": "Present Perfect Continuous",
+    "title": "Present Perfect Continuous Tense",
+    "theory": "S + have/has been + V-ing for actions started in the past and still continuing.",
+    "example": "She has been studying since morning."
+  },
+  {
+    "tense": "Past Simple",
+    "title": "Past Simple Tense",
+    "theory": "S + V2 for actions completed in the past.",
+    "example": "They visited Hanoi last year."
+  },
+  {
+    "tense": "Past Continuous",
+    "title": "Past Continuous Tense",
+    "theory": "S + was/were + V-ing for actions happening at a past time.",
+    "example": "I was reading a book at 8 PM."
+  },
+  {
+    "tense": "Past Perfect",
+    "title": "Past Perfect Tense",
+    "theory": "S + had + V3 for actions before a point in the past.",
+    "example": "She had left before I arrived."
+  },
+  {
+    "tense": "Past Perfect Continuous",
+    "title": "Past Perfect Continuous Tense",
+    "theory": "S + had been + V-ing to emphasize duration before something in the past.",
+    "example": "He had been waiting for hours."
+  },
+  {
+    "tense": "Future Simple",
+    "title": "Future Simple Tense",
+    "theory": "S + will + V for predictions, promises, or decisions made at the moment.",
+    "example": "I will help you."
+  },
+  {
+    "tense": "Future Continuous",
+    "title": "Future Continuous Tense",
+    "theory": "S + will be + V-ing for actions in progress at a future time.",
+    "example": "This time tomorrow, I will be traveling."
+  },
+  {
+    "tense": "Future Perfect",
+    "title": "Future Perfect Tense",
+    "theory": "S + will have + V3 for actions completed before a point in the future.",
+    "example": "She will have finished the work by 5 PM."
+  },
+  {
+    "tense": "Future Perfect Continuous",
+    "title": "Future Perfect Continuous Tense",
+    "theory": "S + will have been + V-ing for actions continuing up to a point in the future.",
+    "example": "By next year, I will have been working here for 10 years."
+  }
+]

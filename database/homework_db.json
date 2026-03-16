@@ -1,0 +1,82 @@
+[
+  {
+    "username": "student01",
+    "homework_id": "hw_001",
+    "type": "writing",
+    "content": "This is my essay about the environment.",
+    "status": "submitted",
+    "submit_time": "2025-06-13 21:00:00"
+  },
+  {
+    "username": "student02",
+    "homework_id": "hw_002",
+    "type": "file",
+    "content": "File: assignment1.docx",
+    "status": "submitted",
+    "submit_time": "2025-06-14 10:30:00"
+  },
+  {
+    "username": "student01",
+    "homework_id": "hw_003",
+    "type": "image",
+    "content": "Image: photo_task.png",
+    "status": "submitted",
+    "submit_time": "2025-06-14 11:00:00"
+  },
+  {
+    "username": "student03",
+    "homework_id": "hw_004",
+    "type": "audio",
+    "content": "Audio: speaking_task.wav",
+    "status": "submitted",
+    "submit_time": "2025-06-14 11:45:00"
+  },
+  {
+    "username": "student01",
+    "homework_id": "hw_005",
+    "type": "writing",
+    "content": "A short paragraph about my family.",
+    "status": "submitted",
+    "submit_time": "2025-06-15 08:20:00"
+  },
+  {
+    "username": "student02",
+    "homework_id": "hw_006",
+    "type": "file",
+    "content": "File: homework2.pdf",
+    "status": "submitted",
+    "submit_time": "2025-06-15 09:00:00"
+  },
+  {
+    "username": "student04",
+    "homework_id": "hw_007",
+    "type": "writing",
+    "content": "My favorite sport is football.",
+    "status": "submitted",
+    "submit_time": "2025-06-15 09:45:00"
+  },
+  {
+    "username": "student03",
+    "homework_id": "hw_008",
+    "type": "image",
+    "content": "Image: homework_drawing.jpg",
+    "status": "submitted",
+    "submit_time": "2025-06-15 10:10:00"
+  },
+  {
+    "username": "student05",
+    "homework_id": "hw_009",
+    "type": "audio",
+    "content": "Audio: my_voice_note.wav",
+    "status": "submitted",
+    "submit_time": "2025-06-15 10:40:00"
+  },
+  {
+    "username": "student01",
+    "homework_id": "hw_010",
+    "type": "writing",
+    "content": "A paragraph about your hometown.",
+    "status": "submitted",
+    "submit_time": "2025-06-15 11:00:00"
+  }
+]

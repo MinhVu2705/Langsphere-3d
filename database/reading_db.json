@@ -1,0 +1,57 @@
+[
+  {
+    "title": "The Rise of E-learning",
+    "content": "In recent years, online education has transformed how students learn around the world. With just a smartphone or computer and an internet connection, learners can access courses from top universities and institutions. Platforms like Coursera, edX, and Khan Academy offer a wide range of subjects, from programming and data science to history and art. Students enjoy flexibility, allowing them to learn at their own pace and schedule. However, online learning also requires self-discipline and motivation, which can be challenging for some.",
+    "quiz": [
+      {
+        "question": "What is one advantage of online learning?",
+        "options": ["High cost", "Flexible schedule", "Lack of internet", "Mandatory classroom attendance"],
+        "answer": "Flexible schedule"
+      }
+    ]
+  },
+  {
+    "title": "A Strange Encounter in the Forest",
+    "content": "Last weekend, I decided to take a solo hike through the old forest near my town. The air was cool and the sunlight filtered gently through the trees. About two hours into the hike, I noticed something unusual—a circle of stones with strange markings. Curious, I stepped closer and suddenly felt a chill. I heard a faint whispering sound but saw no one around. Though I stayed only a few minutes, I couldn’t shake the feeling that something—or someone—had been watching me.",
+    "quiz": [
+      {
+        "question": "What did the writer find in the forest?",
+        "options": ["A cabin", "A deer", "A stone circle with markings", "A lost hiker"],
+        "answer": "A stone circle with markings"
+      }
+    ]
+  },
+  {
+    "title": "Plastic Pollution in the Oceans",
+    "content": "Every year, millions of tons of plastic waste enter the oceans. This pollution harms marine animals, damages coral reefs, and even affects human health. Turtles often mistake plastic bags for jellyfish and eat them, while seabirds ingest small plastic pieces, mistaking them for food. To fight this, many organizations encourage reducing plastic use, recycling, and participating in beach clean-ups. Governments around the world are also starting to ban single-use plastics.",
+    "quiz": [
+      {
+        "question": "Why are plastic bags dangerous to turtles?",
+        "options": ["They block sunlight", "They look like jellyfish", "They are heavy", "They attract sharks"],
+        "answer": "They look like jellyfish"
+      }
+    ]
+  },
+  {
+    "title": "The Invention of the Airplane",
+    "content": "In 1903, the Wright brothers, Orville and Wilbur, made history by achieving the first powered, controlled flight. Their plane, called the Flyer, flew for 12 seconds and covered 120 feet. Although the flight was short, it marked the beginning of modern aviation. Over the next century, airplanes evolved from wooden machines to complex jets capable of crossing oceans. Today, air travel is one of the fastest ways to move around the world, connecting people across great distances.",
+    "quiz": [
+      {
+        "question": "How long did the Wright brothers’ first flight last?",
+        "options": ["12 seconds", "1 minute", "2 hours", "10 minutes"],
+        "answer": "12 seconds"
+      }
+    ]
+  },
+  {
+    "title": "A Letter from the Future",
+    "content": "Dear me,\n\nIf you're reading this, then you’ve managed to achieve something great—or at least, you kept going. The future is not perfect, but it’s full of opportunities. You’ve made mistakes, sure, but you’ve also grown. Technology is everywhere now: AI assists in classrooms, cars drive themselves, and even coffee is brewed by robots. But none of this matters if you don’t stay kind, stay curious, and keep your feet on the ground. I’m proud of how far you’ve come.\n\n—Future You",
+    "quiz": [
+      {
+        "question": "What is the tone of the letter?",
+        "options": ["Angry", "Proud and encouraging", "Sad", "Confused"],
+        "answer": "Proud and encouraging"
+      }
+    ]
+  }
+]

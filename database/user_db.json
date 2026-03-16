@@ -1,0 +1,46 @@
+[
+  {
+    "fullname": "Nguyễn Văn A",
+    "email": "a@gmail.com",
+    "username": "student01",
+    "password": "123456",
+    "role": "student"
+  },
+  {
+    "fullname": "Nguyễn Văn B",
+    "email": "b@gmail.com",
+    "username": "teacher01",
+    "password": "654321",
+    "role": "teacher"
+  },
+  {
+    "fullname": "Nguyễn Vũ Minh",
+    "email": "harryg02@gmail.com",
+    "username": "harryg02",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "student"
+  },
+  {
+    "username": "harry",
+    "fullname": "Harry Nguyễn",
+    "badges": [
+      "badge_grammar_5",
+      "badge_login_7"
+    ],
+    "password": "123456",
+    "email": "harry@example.com",
+    "grammar_index": 2,
+    "listening_index": 3,
+    "vocab_index": 1,
+    "reading_index": 1,
+    "speaking_index": 2,
+    "login_streak": 4
+  },
+  {
+    "fullname": "Vu Minh",
+    "email": "harr2702@gmail.com",
+    "username": "harryg2705",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "role": "teacher"
+  }
+]

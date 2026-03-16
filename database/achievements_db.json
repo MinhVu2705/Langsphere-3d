@@ -1,0 +1,82 @@
+[
+  {
+    "id": "badge_login_1",
+    "name": "First Login",
+    "description": "Đăng nhập lần đầu tiên",
+    "icon": "icons/first_login.png",
+    "type": "streak",
+    "condition": { "login_streak": 1 }
+  },
+  {
+    "id": "badge_login_7",
+    "name": "7-Day Streak",
+    "description": "Đăng nhập học 7 ngày liên tục",
+    "icon": "icons/streak_7.png",
+    "type": "streak",
+    "condition": { "login_streak": 7 }
+  },
+  {
+    "id": "badge_grammar_5",
+    "name": "Grammar Novice",
+    "description": "Hoàn thành 5 bài học ngữ pháp",
+    "icon": "icons/grammar_5.png",
+    "type": "grammar",
+    "condition": { "mode": "grammar", "completed": 5 }
+  },
+  {
+    "id": "badge_grammar_10",
+    "name": "Grammar Pro",
+    "description": "Hoàn thành 10 bài học ngữ pháp",
+    "icon": "icons/grammar_10.png",
+    "type": "grammar",
+    "condition": { "mode": "grammar", "completed": 10 }
+  },
+  {
+    "id": "badge_vocab_10",
+    "name": "Vocabulary Starter",
+    "description": "Học 10 từ vựng mới",
+    "icon": "icons/vocab_10.png",
+    "type": "vocabulary",
+    "condition": { "mode": "vocabulary", "learned_words": 10 }
+  },
+  {
+    "id": "badge_vocab_30",
+    "name": "Vocabulary Explorer",
+    "description": "Học 30 từ vựng mới",
+    "icon": "icons/vocab_30.png",
+    "type": "vocabulary",
+    "condition": { "mode": "vocabulary", "learned_words": 30 }
+  },
+  {
+    "id": "badge_listen_5",
+    "name": "Listening Apprentice",
+    "description": "Hoàn thành 5 bài luyện nghe",
+    "icon": "icons/listen_5.png",
+    "type": "listening",
+    "condition": { "mode": "listening", "completed": 5 }
+  },
+  {
+    "id": "badge_read_5",
+    "name": "Reading Rookie",
+    "description": "Hoàn thành 5 bài đọc",
+    "icon": "icons/reading_5.png",
+    "type": "reading",
+    "condition": { "mode": "reading", "completed": 5 }
+  },
+  {
+    "id": "badge_quiz_20",
+    "name": "Quiz Challenger",
+    "description": "Làm 20 bài quiz",
+    "icon": "icons/quiz_20.png",
+    "type": "quiz",
+    "condition": { "mode": "quiz", "completed_quizzes": 20 }
+  },
+  {
+    "id": "badge_speaking_3",
+    "name": "Speaking Beginner",
+    "description": "Luyện nói 3 lần với AI",
+    "icon": "icons/speaking_3.png",
+    "type": "speaking",
+    "condition": { "mode": "speaking", "completed": 3 }
+  }
+]

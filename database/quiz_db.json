@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "type": "grammar",
+    "topic": "Present Simple",
+    "question": "She ___ to school every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": 1,
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "type": "grammar",
+    "topic": "Past Simple",
+    "question": "They ___ football yesterday.",
+    "options": ["play", "played", "plays", "playing"],
+    "answer": 1,
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "type": "vocab",
+    "topic": "Fruits",
+    "question": "Which one is a fruit?",
+    "options": ["Carrot", "Potato", "Banana", "Cabbage"],
+    "answer": 2,
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "type": "vocab",
+    "topic": "Jobs",
+    "question": "A person who repairs cars is a...",
+    "options": ["Teacher", "Doctor", "Mechanic", "Nurse"],
+    "answer": 2,
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "type": "reading",
+    "topic": "Short Story",
+    "question": "Anna went to the market. Where did Anna go?",
+    "options": ["Home", "Market", "Park", "School"],
+    "answer": 1,
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "type": "reading",
+    "topic": "Schedule",
+    "question": "Math class starts at 9am. What subject at 9am?",
+    "options": ["Math", "English", "Science", "PE"],
+    "answer": 0,
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "type": "listening",
+    "topic": "Conversation",
+    "audio_id": "audio_01",
+    "question": "Where are they going?",
+    "options": ["Home", "Park", "School", "Office"],
+    "answer": 2,
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "type": "listening",
+    "topic": "Food Order",
+    "audio_id": "audio_02",
+    "question": "What food is ordered?",
+    "options": ["Pizza", "Burger", "Salad", "Soup"],
+    "answer": 0,
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "type": "speaking",
+    "topic": "Introducing Yourself",
+    "question": "Which is a self-introduction?",
+    "options": ["I'm Nam.", "Where are you?", "Who is she?", "How many are there?"],
+    "answer": 0,
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "type": "speaking",
+    "topic": "Apologizing",
+    "question": "Which is an apology?",
+    "options": ["I'm sorry.", "Thank you.", "See you.", "Good job!"],
+    "answer": 0,
+    "level": "A1"
+  }
+]

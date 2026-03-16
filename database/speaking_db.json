@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Introducing Yourself",
+    "script": "My name is Linh. I am from Vietnam. I am a student at a language school.",
+    "hint": "Say your name, country, and what you do."
+  },
+  {
+    "title": "Talking about Daily Routine",
+    "script": "Every morning, I wake up at 6:30. I brush my teeth, take a shower, and eat breakfast.",
+    "hint": "Use simple present tense to describe your morning."
+  },
+  {
+    "title": "Describing Your Hometown",
+    "script": "I live in Da Nang. It is a beautiful coastal city with beaches and mountains.",
+    "hint": "Mention your city and what it is known for."
+  },
+  {
+    "title": "Asking for Directions",
+    "script": "Excuse me, how can I get to the nearest bus station?",
+    "hint": "Use polite expressions to ask."
+  },
+  {
+    "title": "Ordering at a Restaurant",
+    "script": "I would like a chicken sandwich and a glass of orange juice, please.",
+    "hint": "Use 'I would like' to order."
+  },
+  {
+    "title": "Talking about Hobbies",
+    "script": "In my free time, I enjoy reading books and going for walks in the park.",
+    "hint": "List your hobbies using present simple."
+  },
+  {
+    "title": "Making an Appointment",
+    "script": "Can I make an appointment with the doctor for tomorrow at 10 a.m.?",
+    "hint": "Ask clearly about time and purpose."
+  },
+  {
+    "title": "Describing a Picture",
+    "script": "In the picture, there is a family having a picnic in the park. The weather is sunny.",
+    "hint": "Describe what you see and where."
+  },
+  {
+    "title": "Giving Opinions",
+    "script": "I think studying English every day is very helpful.",
+    "hint": "Use 'I think' to express your opinion."
+  },
+  {
+    "title": "Expressing Future Plans",
+    "script": "Next weekend, I am going to visit my grandparents in the countryside.",
+    "hint": "Use 'going to' or 'will' for future."
+  }
+]

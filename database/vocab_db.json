@@ -1,0 +1,49 @@
+[
+  {"level": "A1", "topic": "Fruits", "word": "apple", "meaning": "quả táo", "example": "I eat an apple every morning."},
+  {"level": "A1", "topic": "Fruits", "word": "banana", "meaning": "quả chuối", "example": "Bananas are yellow."},
+  {"level": "A1", "topic": "Fruits", "word": "orange", "meaning": "quả cam", "example": "I like orange juice."},
+  {"level": "A1", "topic": "Fruits", "word": "grape", "meaning": "quả nho", "example": "Grapes are sweet."},
+  {"level": "A1", "topic": "Fruits", "word": "mango", "meaning": "quả xoài", "example": "She bought a ripe mango."},
+
+  {"level": "A1", "topic": "Colors", "word": "red", "meaning": "màu đỏ", "example": "The apple is red."},
+  {"level": "A1", "topic": "Colors", "word": "blue", "meaning": "màu xanh dương", "example": "The sky is blue."},
+  {"level": "A1", "topic": "Colors", "word": "green", "meaning": "màu xanh lá", "example": "The leaves are green."},
+  {"level": "A1", "topic": "Colors", "word": "yellow", "meaning": "màu vàng", "example": "Bananas are yellow."},
+  {"level": "A1", "topic": "Colors", "word": "black", "meaning": "màu đen", "example": "He wears black shoes."},
+
+  {"level": "A1", "topic": "Animals", "word": "cat", "meaning": "con mèo", "example": "The cat is sleeping."},
+  {"level": "A1", "topic": "Animals", "word": "dog", "meaning": "con chó", "example": "I walk my dog every day."},
+  {"level": "A1", "topic": "Animals", "word": "elephant", "meaning": "con voi", "example": "The elephant is big."},
+  {"level": "A1", "topic": "Animals", "word": "lion", "meaning": "sư tử", "example": "Lions live in Africa."},
+  {"level": "A1", "topic": "Animals", "word": "bird", "meaning": "chim", "example": "The bird is flying."},
+
+  {"level": "A1", "topic": "Jobs", "word": "teacher", "meaning": "giáo viên", "example": "My teacher is kind."},
+  {"level": "A1", "topic": "Jobs", "word": "doctor", "meaning": "bác sĩ", "example": "The doctor helps people."},
+  {"level": "A1", "topic": "Jobs", "word": "engineer", "meaning": "kỹ sư", "example": "My brother is an engineer."},
+  {"level": "A1", "topic": "Jobs", "word": "farmer", "meaning": "nông dân", "example": "The farmer grows rice."},
+  {"level": "A1", "topic": "Jobs", "word": "nurse", "meaning": "y tá", "example": "The nurse is working at the hospital."},
+
+  {"level": "A2", "topic": "Emotions", "word": "happy", "meaning": "vui vẻ", "example": "I feel happy today."},
+  {"level": "A2", "topic": "Emotions", "word": "sad", "meaning": "buồn", "example": "He looks sad."},
+  {"level": "A2", "topic": "Emotions", "word": "angry", "meaning": "tức giận", "example": "She was angry at the news."},
+  {"level": "A2", "topic": "Emotions", "word": "excited", "meaning": "hào hứng", "example": "We are excited for the trip."},
+  {"level": "A2", "topic": "Emotions", "word": "nervous", "meaning": "lo lắng", "example": "He was nervous before the test."},
+
+  {"level": "A2", "topic": "Weather", "word": "sunny", "meaning": "trời nắng", "example": "It is sunny today."},
+  {"level": "A2", "topic": "Weather", "word": "rainy", "meaning": "trời mưa", "example": "The weather is rainy."},
+  {"level": "A2", "topic": "Weather", "word": "cloudy", "meaning": "trời nhiều mây", "example": "The sky is cloudy."},
+  {"level": "A2", "topic": "Weather", "word": "windy", "meaning": "trời có gió", "example": "It's very windy outside."},
+  {"level": "A2", "topic": "Weather", "word": "snowy", "meaning": "trời tuyết", "example": "The street is snowy."},
+
+  {"level": "A2", "topic": "Transportation", "word": "car", "meaning": "xe ô tô", "example": "He drives a car."},
+  {"level": "A2", "topic": "Transportation", "word": "bicycle", "meaning": "xe đạp", "example": "I ride a bicycle to school."},
+  {"level": "A2", "topic": "Transportation", "word": "bus", "meaning": "xe buýt", "example": "She takes the bus every day."},
+  {"level": "A2", "topic": "Transportation", "word": "train", "meaning": "tàu hỏa", "example": "They travel by train."},
+  {"level": "A2", "topic": "Transportation", "word": "motorbike", "meaning": "xe máy", "example": "My dad rides a motorbike."},
+
+  {"level": "A2", "topic": "Household Items", "word": "table", "meaning": "bàn", "example": "There is a table in the room."},
+  {"level": "A2", "topic": "Household Items", "word": "chair", "meaning": "ghế", "example": "The chair is wooden."},
+  {"level": "A2", "topic": "Household Items", "word": "lamp", "meaning": "đèn bàn", "example": "The lamp is bright."},
+  {"level": "A2", "topic": "Household Items", "word": "bed", "meaning": "giường", "example": "I sleep on a big bed."},
+  {"level": "A2", "topic": "Household Items", "word": "mirror", "meaning": "gương", "example": "She looked into the mirror."}
+]
